@@ -12,7 +12,7 @@ The official code implementation of the paper **"Improving Tropical Cyclone Inte
 
 This repository is distributed under the **Apache License 2.0 (January 2004)**. 
 
-**Note:** The code and models provided here are intended for **academic and research purposes only**. Commercial use requires explicit permission.
+The code and models provided here are intended for academic and research purposes.
 
 ---
 
